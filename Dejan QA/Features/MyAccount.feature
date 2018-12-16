@@ -16,11 +16,3 @@ Scenario: User can open wishlist page
 	Given user submits the login form
 	When User opens my wishlist
 	Then User can add new wishlist
-
-Scenario: User can Add product to cart
-	Given User opens 'dresses' section
-	And opens first product from the list
-	And increases quantity to 2
-	When User click on add to cart button
-	Then product is added to the cart
-	And test dejan test
