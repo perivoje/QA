@@ -23,4 +23,4 @@ Scenario: User can Add product to cart
 	And increases quantity to 2
 	When User click on add to cart button
 	Then product is added to the cart
-	And test
+	And test dejan test
