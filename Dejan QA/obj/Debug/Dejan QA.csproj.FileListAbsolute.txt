@@ -1,0 +1,20 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\obj\Debug\Dejan QA.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\Dejan QA.dll.config
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\Dejan QA.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\Dejan QA.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\Newtonsoft.Json.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\nunit.framework.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\SeleniumExtras.WaitHelpers.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\System.ValueTuple.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\WebDriver.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\WebDriver.Support.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\Newtonsoft.Json.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\Newtonsoft.Json.xml
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\nunit.framework.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\nunit.framework.xml
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\System.ValueTuple.xml
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\WebDriver.xml
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\bin\Debug\WebDriver.Support.xml
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\obj\Debug\Dejan QA.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Dejan QA\Dejan QA\obj\Debug\Dejan QA.pdb
