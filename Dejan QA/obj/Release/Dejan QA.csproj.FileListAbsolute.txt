@@ -1,0 +1,20 @@
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\Dejan QA.dll.config
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\Dejan QA.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\Dejan QA.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\Newtonsoft.Json.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\nunit.framework.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\System.ValueTuple.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\WebDriver.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\WebDriver.Support.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\Newtonsoft.Json.xml
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\nunit.framework.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\nunit.framework.xml
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\System.ValueTuple.xml
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\WebDriver.xml
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Release\WebDriver.Support.xml
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\obj\Release\Dejan QA.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\obj\Release\Dejan QA.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\obj\Release\Dejan QA.pdb
