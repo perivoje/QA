@@ -81,7 +81,7 @@ namespace Dejan_QA.Features
 this.ScenarioInitialize(scenarioInfo);
             this.ScenarioStart();
 #line 8
- testRunner.Given("User opens \'dresses\' section", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("User opens dresses section", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line 9
  testRunner.And("opens first product from the list", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 10

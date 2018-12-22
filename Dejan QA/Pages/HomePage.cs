@@ -13,6 +13,7 @@ namespace Dejan_QA.Pages
         readonly IWebDriver driver;
 
         public By signIn = By.ClassName("login");
+        public By dresses = By.CssSelector(".sf-menu [title= 'Dresses']");
 
         public HomePage(IWebDriver driver)
         {

@@ -5,7 +5,7 @@
 
 @PDP
 Scenario: User can Add product to cart
-	Given User opens 'dresses' section
+	Given User opens dresses section
 	And opens first product from the list
 	And increases quantity to 2
 	When User click on add to cart button

@@ -91,10 +91,10 @@
     <Compile Include="Pages\HomePage.cs" />
     <Compile Include="Pages\MyAccountPage.cs" />
     <Compile Include="Pages\MyWishlistPage.cs" />
-    <Compile Include="Pages\PDPPage.cs" />
+    <Compile Include="Pages\PLPPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Steps\MyAccountSteps.cs" />
-    <Compile Include="Steps\PDPSteps.cs" />
+    <Compile Include="Steps\PLPSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
