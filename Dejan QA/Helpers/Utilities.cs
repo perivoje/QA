@@ -41,5 +41,10 @@ namespace Dejan_QA.Helpers
             return wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(textElement));
 
         }
+
+        internal string ReturnTextFromElement(By selector)
+        {
+            return driver.FindElement(selector).GetAttribute("textContent");
+        }
     }
 }
