@@ -27,6 +27,17 @@ namespace Dejan_QA.Steps
             Utilities ut = new Utilities(Driver);
             ut.ClickOnElement(pd.firstDress);
         }
+        [Given(@"increases quantity to (.*)")]
+        public void GivenIncreasesQuantityTo(string qty)
+        {
+            Utilities ut = new Utilities(Driver);
+            Driver.SwitchTo().Frame(Driver.FindElement(By.ClassName("fancybox-iframe")));
+            PDPPage pdp = new PDPPage(Driver);
+            Driver.FindElement(pdp.quantity).Clear();
+            ut.EnterTextInElement(pdp.quantity, qty);
+            string productName = ut.ReturnTextFromElement(pdp.productName);
+        }
+
 
     }
 }
