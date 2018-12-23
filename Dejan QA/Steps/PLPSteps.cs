@@ -46,6 +46,13 @@ namespace Dejan_QA.Steps
             ut.ClickOnElement(sp.addToCart);
             
          }
+        [Then(@"product is added to the cart")]
+        public void ThenProductIsAddedToTheCart()
+        {
+            Utilities ut = new Utilities(Driver);
+            OverlayPage op = new OverlayPage(Driver);
+            ut.ClickOnElement(op.proceedToCheckout);
+        }
 
-   }
+    }
 }
