@@ -38,6 +38,14 @@ namespace Dejan_QA.Steps
             string productName = ut.ReturnTextFromElement(pdp.productName);
         }
 
+        [When(@"User click on add to cart button")]
+         public void WhenUserClickOnAddToCartButton()
+         {
+            Utilities ut = new Utilities(Driver);
+            ShoppingCartPage sp = new ShoppingCartPage(Driver);
+            ut.ClickOnElement(sp.addToCart);
+            
+         }
 
-    }
+   }
 }
