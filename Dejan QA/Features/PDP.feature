@@ -9,4 +9,4 @@ Scenario: User can Add product to cart
 	And opens first product from the list
 	And increases quantity to 2
 	When User click on add to cart button
-	Then product is added to the cart
+	Then product is added to the cart 
