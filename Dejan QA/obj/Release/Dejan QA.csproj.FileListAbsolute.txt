@@ -18,3 +18,23 @@ C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\bin\Re
 C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\obj\Release\Dejan QA.csprojResolveAssemblyReference.cache
 C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\obj\Release\Dejan QA.dll
 C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Dejan QA\Dejan QA\obj\Release\Dejan QA.pdb
+D:\Dejan\QA\Dejan QA\bin\Release\Dejan QA.dll.config
+D:\Dejan\QA\Dejan QA\bin\Release\Dejan QA.dll
+D:\Dejan\QA\Dejan QA\bin\Release\Dejan QA.pdb
+D:\Dejan\QA\Dejan QA\bin\Release\Newtonsoft.Json.dll
+D:\Dejan\QA\Dejan QA\bin\Release\nunit.framework.dll
+D:\Dejan\QA\Dejan QA\bin\Release\SeleniumExtras.WaitHelpers.dll
+D:\Dejan\QA\Dejan QA\bin\Release\System.ValueTuple.dll
+D:\Dejan\QA\Dejan QA\bin\Release\TechTalk.SpecFlow.dll
+D:\Dejan\QA\Dejan QA\bin\Release\WebDriver.dll
+D:\Dejan\QA\Dejan QA\bin\Release\WebDriver.Support.dll
+D:\Dejan\QA\Dejan QA\bin\Release\Newtonsoft.Json.pdb
+D:\Dejan\QA\Dejan QA\bin\Release\Newtonsoft.Json.xml
+D:\Dejan\QA\Dejan QA\bin\Release\nunit.framework.pdb
+D:\Dejan\QA\Dejan QA\bin\Release\nunit.framework.xml
+D:\Dejan\QA\Dejan QA\bin\Release\System.ValueTuple.xml
+D:\Dejan\QA\Dejan QA\bin\Release\WebDriver.xml
+D:\Dejan\QA\Dejan QA\bin\Release\WebDriver.Support.xml
+D:\Dejan\QA\Dejan QA\obj\Release\Dejan QA.csprojResolveAssemblyReference.cache
+D:\Dejan\QA\Dejan QA\obj\Release\Dejan QA.dll
+D:\Dejan\QA\Dejan QA\obj\Release\Dejan QA.pdb
