@@ -99,10 +99,12 @@
     <Compile Include="Pages\OverlayPage.cs" />
     <Compile Include="Pages\PDPPage.cs" />
     <Compile Include="Pages\PLPPage.cs" />
+    <Compile Include="Pages\SearchBoxPage.cs" />
     <Compile Include="Pages\ShoppingCartPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Steps\MyAccountSteps.cs" />
     <Compile Include="Steps\PLPSteps.cs" />
+    <Compile Include="Steps\SearchBoxSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
